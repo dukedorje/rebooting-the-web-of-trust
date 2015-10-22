@@ -19,7 +19,7 @@ Arriving at such a solution is an interdisciplinary endeavor. It requires invest
 
 Advice from our personal networks reduces our search time for new products, services, ideas, and collaborators dramatically. This benefit is magnified as we move from our in person network to online graphs. But these graphs are currently primarily provided by centralized services such as Google, Facebook, Twitter and the like.
 
-In a centralized world, we rely heavily on familiar brands that we trust to provide reputational information for services we have no previous direct interaction with. Reputation services like Yelp store ratings and provide the context necessary for interpreting reputational information. There are several reasons to create alternative centralized reputation services.
+In a centralized world, we rely heavily on familiar brands that we trust to provide reputational information for services we have no previous direct interaction with. Reputation services like Yelp store ratings and provide the context necessary for interpreting reputational information. There are several reasons to create alternative decentralized reputation services.
 
 Centralized services have a biased incentive structure for interpreting reputation data and disproportionate power to modify it. For instance, movie ticket provider [Fandango](http://fivethirtyeight.com/features/fandango-movies-ratings/) is incentivized to pump up movie ratings to sell more tickets and they can set ratings high to do so. This demonstrates how reputation data is subject to censorship, distortion, and deletion.
 
@@ -27,7 +27,7 @@ Effectiveness of searching is diminished when data is closed to alternate interp
 
 Company bankruptcy can lead to massive community data loss.
 
-The amount of redundant, non-reusable work spent by users on rating things is astounding. Large quantities of user generated data is siloed, non-reinterpritable, and impermanent. This represents a significant loss of value to the users who created this content.
+The amount of redundant, non-reusable work spent by users on rating things is astounding. Large quantities of user generated data is siloed, non-reinterpretable, and impermanent. This represents a significant loss of value to the users who created this content.
 
 A new era of peer to peer collaboration can be enabled through decentralized reputation services. If executed well a scalable, decentralized, interoperable reputation network can make economic ecosystems considerably more productive.
 
@@ -41,7 +41,7 @@ To maximize usefulness, decentralized reputation system must be:
 1. Contextual
 1. Chronological
 1. Resilient (censorship resistent, immutable, decentralized)
-1. Re-interperatable (raw data is open to user and use specific re-interpretation)
+1. Re-interpretable (raw data is open to user and use specific re-interpretation)
 1. Not feared
 1. Compatible with the spectrum of identity
 
